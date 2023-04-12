@@ -1,7 +1,7 @@
 {
   "Name": "[FTM] Ginger Island Critter Additions Forage",
   "Author": "StarAmy",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": "Forage spawn rules for critter additions items at ginger island locations.",
   "UniqueID": "StarAmy.IslandCritterAdditions",
   "MinimumApiVersion": "3.0",
